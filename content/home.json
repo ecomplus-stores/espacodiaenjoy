@@ -1,6 +1,6 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Espaço Dia Enjoy ",
+  "meta_description": "Espaço Dia Emjoy",
   "sections": [
     {
       "type": "banner-slider",
@@ -26,7 +26,7 @@
     },
     {
       "type": "info-bar",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "collection-shelf",
