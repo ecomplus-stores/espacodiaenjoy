@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f398325b23abed91edfa991c667e4444.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.7c975bb357a4b54a88c45a6c01bd65c0.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.ecb884333823bc9df2883f66d6378058.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.43d7c6f0977ff1fa164f8d30029b95dc.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.9982288981cbe0fcce5fa27e17f1f116.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "espacodiaenjoy",
+  "short_name": "espacodiaenjoy",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "espacodiaenjoy",
+  "background_color": "#ffffff",
+  "theme_color": "#d491e0"
+}
